@@ -220,6 +220,7 @@
             this.btn_guardar.TabIndex = 10;
             this.btn_guardar.Text = "Guardar";
             this.btn_guardar.UseVisualStyleBackColor = true;
+            this.btn_guardar.Click += new System.EventHandler(this.btn_guardar_Click);
             // 
             // mc_enferm
             // 

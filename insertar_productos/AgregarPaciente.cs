@@ -11,7 +11,8 @@ namespace insertar_productos
 {
     public partial class AgregarPaciente : Form
     {
-        private static DataTable medicamentos_enfermedades;
+        public Form form_anterio;
+        public static DataTable medicamentos_enfermedades = null;
         public AgregarPaciente()
         {
             InitializeComponent();
@@ -126,8 +127,22 @@ namespace insertar_productos
         {
             medicamento_enfermedades form = new medicamento_enfermedades();
             form.form_anterio = this;
+            form.form_anterio.Enabled = false;
             form.Show();
 
+        }
+
+        private void AgregarPaciente_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.form_anterio.Enabled = true;
+            this.form_anterio.Show();
+        }
+
+        private void AgregarPaciente_EnabledChanged(object sender, EventArgs e)
+        {
+        if(AgregarPaciente.medicamentos_enfermedades != null){
+            dataGridView1.DataSource = medicamentos_enfermedades;
+                }
         }
     }
 }

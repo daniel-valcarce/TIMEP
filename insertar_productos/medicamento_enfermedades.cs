@@ -16,8 +16,9 @@ namespace insertar_productos
     public partial class medicamento_enfermedades : Form
     {
         public  DataTable enfermedades_seleccionadas= new DataTable();
-       
+        private int seleccionado;
           private int id_enfer_o_medi;
+     
         public Form form_anterio;
         //private Array datos_enfer_y_medica[];
 
@@ -29,11 +30,13 @@ namespace insertar_productos
             mc_enferm.Hide();
             btn_cancel_enfer.Hide();
             btn_guar_fech.Hide();
+            lbl_titu_mont_cal.Hide();
             enfermedades_seleccionadas.Columns.Add("Nombre", typeof(string));
             enfermedades_seleccionadas.Columns.Add("id", typeof(string));
             enfermedades_seleccionadas.Columns.Add("tipo", typeof(string));
             enfermedades_seleccionadas.Columns.Add("fecha_inicio", typeof(string));
             enfermedades_seleccionadas.Columns.Add("fecha_final", typeof(string));
+           
             /*
             DataTable datos_List = new DataTable();
             datos_List.Columns.Add("id", typeof(string));
@@ -79,7 +82,7 @@ namespace insertar_productos
 
         private void medicamento_enfermedades_Load(object sender, EventArgs e)
         {
-
+           
         }
 
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -147,11 +150,40 @@ namespace insertar_productos
             mc_enferm.Hide();
             btn_cancel_enfer.Hide();
             btn_guar_fech.Hide();
+            lbl_titu_mont_cal.Hide();
+
         }
 
         private void btn_guar_fech_Click(object sender, EventArgs e)
         {
-          
+            lbl_titu_mont_cal.Show();
+            DataRow header = enfermedades_seleccionadas.NewRow();
+            if( lbl_titu_mont_cal.Text != "Fecha de Inicio"){
+                lstb_medic_selec.Items.Add(lstb_resul_bus_medic.Text);
+                header["Nombre"] =  lstb_resul_bus_medic.Text;
+                header["id"] = lstb_resul_bus_medic.SelectedValue;
+                header["tipo"] = "Medicamento";
+                header["fecha_final"] = mc_enferm.SelectionStart.Date.ToShortDateString() +" "+ mc_enferm.SelectionStart.Date.ToShortTimeString();
+                enfermedades_seleccionadas.Rows.Add(header);
+                pn_botones.Enabled = true;
+                pn_enfer.Enabled = true;
+                pn_medica.Enabled = true;
+                mc_enferm.Hide();
+                btn_cancel_enfer.Hide();
+                btn_guar_fech.Hide();
+                lbl_titu_mont_cal.Hide();
+               
+            }
+                DateTime fecha = DateTime.Today;
+                header["fecha_inicio"] = fecha.ToShortDateString() + " " + fecha.ToShortTimeString();
+                lbl_titu_mont_cal.Text = "Fecha de Final";
+                //DataRow fila = enfermedades_seleccionadas.NewRow();
+               // int filas = enfermedades_seleccionadas.Rows.Count;
+                //DataRow fila = enfermedades_seleccionadas.Rows[filas - 1];
+                //MessageBox.Show(fila["id"].ToString());    
+            
+
+            
            
         }
 
@@ -172,13 +204,17 @@ namespace insertar_productos
 
         private void lstb_resul_bus_medic_DoubleClick(object sender, EventArgs e)
         {
-            pn_botones.Enabled = false;
-            pn_enfer.Enabled = false;
-            pn_medica.Enabled = false;
-            lbl_titu_mont_cal.Text = "Fecha de Inicio";
-            mc_enferm.Show();
-            btn_cancel_enfer.Show();
-            btn_guar_fech.Show();
+            lbl_titu_mont_cal.Show();
+            if (lbl_titu_mont_cal.Text == "Fecha de Inicio")
+            {
+                pn_botones.Enabled = false;
+                pn_enfer.Enabled = false;
+               // pn_medica.Enabled = false;
+                mc_enferm.Show();
+                btn_cancel_enfer.Show();
+                btn_guar_fech.Show();
+            }
+            
         }
 
         private void txt_medicam_KeyUp(object sender, KeyEventArgs e)
@@ -198,6 +234,16 @@ namespace insertar_productos
                 lstb_resul_bus_medic.ValueMember = "id";
 
             }
+        }
+
+        private void btn_guardar_Click(object sender, EventArgs e)
+        {
+            AgregarPaciente.medicamentos_enfermedades = enfermedades_seleccionadas;
+            form_anterio.Show();
+            this.form_anterio.Enabled = true;
+            this.Close();
+          
+          
         }
 
         
