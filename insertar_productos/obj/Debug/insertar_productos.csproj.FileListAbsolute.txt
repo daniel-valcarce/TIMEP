@@ -254,3 +254,6 @@ C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_origina
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.exe
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP\insertar_productos\obj\Debug\insertar_productos.pdb
