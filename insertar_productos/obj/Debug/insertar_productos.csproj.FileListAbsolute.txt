@@ -1,0 +1,256 @@
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe.config
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\bin\Debug\insertar_productos.pdb
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Form1.resources
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.exe
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.pdb
+c:\users\adsi\documents\visual studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Form2.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Form3.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\insertar_productos.pdb
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\mscorlib.dll
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\es\mscorlib.resources.dll
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\normidna.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\normnfc.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\normnfd.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\normnfkc.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\bin\Debug\normnfkd.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Form2.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioAdminSalud.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.Iniciomedico.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioNurse.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioParamedico.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\insertar\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+G:\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe.config
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.exe
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.pdb
+G:\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe
+G:\insertar_productos\insertar_productos\bin\Debug\insertar_productos.pdb
+G:\insertar_productos\insertar_productos\bin\Debug\mscorlib.dll
+G:\insertar_productos\insertar_productos\bin\Debug\es\mscorlib.resources.dll
+G:\insertar_productos\insertar_productos\bin\Debug\normidna.nlp
+G:\insertar_productos\insertar_productos\bin\Debug\normnfc.nlp
+G:\insertar_productos\insertar_productos\bin\Debug\normnfd.nlp
+G:\insertar_productos\insertar_productos\bin\Debug\normnfkc.nlp
+G:\insertar_productos\insertar_productos\bin\Debug\normnfkd.nlp
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Form2.resources
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+G:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioAdminSalud.resources
+G:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.Iniciomedico.resources
+G:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioNurse.resources
+G:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioParamedico.resources
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+G:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+F:\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe.config
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.exe
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.pdb
+F:\insertar_productos\insertar_productos\bin\Debug\insertar_productos.exe
+F:\insertar_productos\insertar_productos\bin\Debug\insertar_productos.pdb
+F:\insertar_productos\insertar_productos\bin\Debug\mscorlib.dll
+F:\insertar_productos\insertar_productos\bin\Debug\es\mscorlib.resources.dll
+F:\insertar_productos\insertar_productos\bin\Debug\normidna.nlp
+F:\insertar_productos\insertar_productos\bin\Debug\normnfc.nlp
+F:\insertar_productos\insertar_productos\bin\Debug\normnfd.nlp
+F:\insertar_productos\insertar_productos\bin\Debug\normnfkc.nlp
+F:\insertar_productos\insertar_productos\bin\Debug\normnfkd.nlp
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+F:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioAdminSalud.resources
+F:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.Iniciomedico.resources
+F:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioNurse.resources
+F:\insertar_productos\insertar_productos\obj\Debug\WindowsFormsApplication12.InicioParamedico.resources
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+F:\insertar_productos\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.pdb
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\mscorlib.dll
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\es\mscorlib.resources.dll
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\normidna.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\normnfc.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\normnfd.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\normnfkc.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\bin\Debug\normnfkd.nlp
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioAdminSalud.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.iniciomedico.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioNurse.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.inicioadmisalud.resources
+E:\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe.config
+E:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.exe
+E:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.pdb
+F:\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe.config
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.exe
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.pdb
+F:\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe
+F:\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.pdb
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.inicioadmisalud.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.inicioadmisalud.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioAdminSalud.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe
+C:\Users\sena\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.pdb
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.inicioadmisalud.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioAdminSalud.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe
+C:\Users\Osiris\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.pdb
+F:\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicioadminsalud.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.exe
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicioadmisalud.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\bin\Debug\insertar_productos.pdb
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba - copia\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\jorge\Documents\Visual Studio 2013\Projects\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.pdb
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\insertar_productos.exe.config
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.exe
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.pdb
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\insertar_productos.exe
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\insertar_productos.pdb
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Inicioadmisalud.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+F:\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\mscorlib.dll
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\es\mscorlib.resources.dll
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\normidna.nlp
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\normnfc.nlp
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\normnfd.nlp
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\normnfkc.nlp
+F:\Timep Prueba - copia\insertar_productos\bin\Debug\normnfkd.nlp
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\insertar_productos.exe.config
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.exe
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.pdb
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\insertar_productos.exe
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\insertar_productos.pdb
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\mscorlib.dll
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\es\mscorlib.resources.dll
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\normidna.nlp
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\normnfc.nlp
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\normnfd.nlp
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\normnfkc.nlp
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\bin\Debug\normnfkd.nlp
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Inicioadmisalud.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+E:\Users\Administrador\Desktop\Timep Prueba - copia\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\timep enserio\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\timep enserio\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\ADSI\Documents\Visual Studio 2010\Projects\timep enserio\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.exe
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.pdb
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Inicioadmisalud.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\Adsi\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.medicamento_enfermedades.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.AgregarPaciente.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.AgregarUsuario.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Logeo.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Inicioadmin.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Inicioadmisalud.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Iniciomedico.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Inicionurse.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.InicioParamedico.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.medicamento_enfermedades.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\insertar_productos_original\insertar_productos\bin\Debug\insertar_productos.pdb
