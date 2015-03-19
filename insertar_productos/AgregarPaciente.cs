@@ -141,8 +141,12 @@ namespace insertar_productos
         private void AgregarPaciente_EnabledChanged(object sender, EventArgs e)
         {
         if(AgregarPaciente.medicamentos_enfermedades != null){
+<<<<<<< HEAD
             int filas = medicamentos_enfermedades.Rows.Count;
            // dataGridView1.DataSource = medicamentos_enfermedades;
+=======
+            dataGridView1.DataSource = medicamentos_enfermedades;
+>>>>>>> origin/master
                 }
         }
     }

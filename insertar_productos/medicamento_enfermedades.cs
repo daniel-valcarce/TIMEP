@@ -18,7 +18,10 @@ namespace insertar_productos
         public  DataTable enfermedades_seleccionadas= new DataTable();
         private int seleccionado;
           private int id_enfer_o_medi;
+<<<<<<< HEAD
           public int control;
+=======
+>>>>>>> origin/master
      
         public Form form_anterio;
         //private Array datos_enfer_y_medica[];
@@ -83,7 +86,11 @@ namespace insertar_productos
 
         private void medicamento_enfermedades_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             control = 1;
+=======
+           
+>>>>>>> origin/master
         }
 
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -153,8 +160,11 @@ namespace insertar_productos
             btn_cancel_enfer.Hide();
             btn_guar_fech.Hide();
             lbl_titu_mont_cal.Hide();
+<<<<<<< HEAD
             lbl_titu_mont_cal.Text = "Fecha de Inicio";
             control = 1;
+=======
+>>>>>>> origin/master
 
         }
 
@@ -163,7 +173,10 @@ namespace insertar_productos
             lbl_titu_mont_cal.Show();
             DataRow header = enfermedades_seleccionadas.NewRow();
             if( lbl_titu_mont_cal.Text != "Fecha de Inicio"){
+<<<<<<< HEAD
               
+=======
+>>>>>>> origin/master
                 lstb_medic_selec.Items.Add(lstb_resul_bus_medic.Text);
                 header["Nombre"] =  lstb_resul_bus_medic.Text;
                 header["id"] = lstb_resul_bus_medic.SelectedValue;
@@ -176,16 +189,24 @@ namespace insertar_productos
                 mc_enferm.Hide();
                 btn_cancel_enfer.Hide();
                 btn_guar_fech.Hide();
+<<<<<<< HEAD
                
                 lbl_titu_mont_cal.Hide();
                 lbl_titu_mont_cal.Text = "Fecha de Inicio";
                 control = 1;
                 return;
+=======
+                lbl_titu_mont_cal.Hide();
+               
+>>>>>>> origin/master
             }
                 DateTime fecha = DateTime.Today;
                 header["fecha_inicio"] = fecha.ToShortDateString() + " " + fecha.ToShortTimeString();
                 lbl_titu_mont_cal.Text = "Fecha de Final";
+<<<<<<< HEAD
                 control = 0;
+=======
+>>>>>>> origin/master
                 //DataRow fila = enfermedades_seleccionadas.NewRow();
                // int filas = enfermedades_seleccionadas.Rows.Count;
                 //DataRow fila = enfermedades_seleccionadas.Rows[filas - 1];
@@ -213,8 +234,11 @@ namespace insertar_productos
 
         private void lstb_resul_bus_medic_DoubleClick(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (lstb_resul_bus_medic.Text != "")
             {
+=======
+>>>>>>> origin/master
             lbl_titu_mont_cal.Show();
             if (lbl_titu_mont_cal.Text == "Fecha de Inicio")
             {
@@ -250,6 +274,7 @@ namespace insertar_productos
 
         private void btn_guardar_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
             if(control==1){
             AgregarPaciente.medicamentos_enfermedades = enfermedades_seleccionadas;
@@ -284,6 +309,14 @@ namespace insertar_productos
                 e.Cancel = true;
                 return;
             }
+=======
+            AgregarPaciente.medicamentos_enfermedades = enfermedades_seleccionadas;
+            form_anterio.Show();
+            this.form_anterio.Enabled = true;
+            this.Close();
+          
+          
+>>>>>>> origin/master
         }
 
         

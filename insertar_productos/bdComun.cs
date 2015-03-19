@@ -11,7 +11,7 @@ namespace insertar_productos
     {
        public static MySqlConnection ObtenerConexion()
        {
-           MySqlConnection conectar = new MySqlConnection("server=127.0.0.1; database=timep; Uid=root; pwd=oracle;");
+           MySqlConnection conectar = new MySqlConnection("server=127.0.0.1; database=timep; Uid=root; pwd=;");
            conectar.Open();
            return conectar;
            

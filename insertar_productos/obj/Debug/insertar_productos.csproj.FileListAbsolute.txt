@@ -278,6 +278,7 @@ C:\Users\ADSI\Documents\Visual Studio 2010\Projects\TIMEP\insertar_productos\obj
 C:\Users\ADSI\Documents\Visual Studio 2010\Projects\TIMEP\insertar_productos\obj\Debug\insertar_productos.medicamento_enfermedades.resources
 C:\Users\ADSI\Documents\Visual Studio 2010\Projects\TIMEP\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
 C:\Users\ADSI\Documents\Visual Studio 2010\Projects\TIMEP\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP_FULL\insertar_productos\bin\Debug\insertar_productos.exe.config
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP_FULL\insertar_productos\obj\Debug\insertar_productos.exe
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP_FULL\insertar_productos\obj\Debug\insertar_productos.pdb
@@ -294,3 +295,5 @@ C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP_FULL\insertar_produc
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP_FULL\insertar_productos\obj\Debug\insertar_productos.medicamento_enfermedades.resources
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP_FULL\insertar_productos\obj\Debug\insertar_productos.Properties.Resources.resources
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\TIMEP_FULL\insertar_productos\obj\Debug\insertar_productos.csproj.GenerateResource.Cache
+=======
+>>>>>>> origin/master
