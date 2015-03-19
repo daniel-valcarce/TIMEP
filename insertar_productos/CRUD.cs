@@ -30,7 +30,7 @@ namespace insertar_productos
         {
             int retorno = 0;
 
-            MySqlCommand comando = new MySqlCommand(string.Format("INSERT INTO pacientes(nombre, primer_apellido, segundo_apellido, tipo_identificacion, numero_identificacion,telefono_fijo,celular,id_ciudad,id_barrios,direccion,fecha_nacimiento,sexo,numero_contacto,nombre_contacto) VALUES ('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}','{9}','{10}','{11}','{12}','{13}')",
+            MySqlCommand comando = new MySqlCommand(string.Format("INSERT INTO pacientes(nombre, primer_apellido, segundo_apellido, tipo_documento, numero_identificacion,telefono_fijo,celular,ciudad_id,barrio_id,direccion,fecha_nacimiento,sexo,numero_contacto,nombre_contacto) VALUES ('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}','{9}','{10}','{11}','{12}','{13}')",
                paciente1.nombre, paciente1.primer_apellido, paciente1.segundo_apellido, paciente1.tipo_identificacion, paciente1.numero_identificacion,paciente1.telefono_fijo,paciente1.celular,paciente1.id_ciudad,paciente1.id_barrios,paciente1.direccion,paciente1.fecha_nacimiento,paciente1.sexo,paciente1.numero_contacto,paciente1.nombre_contacto), bdComun.ObtenerConexion());
             try
             {

@@ -57,6 +57,8 @@ namespace insertar_productos
         private void Agregar_paciente_Click_1(object sender, EventArgs e)
         {
             AgregarPaciente agregar = new AgregarPaciente();
+            agregar.form_anterio = this;
+            agregar.form_anterio.Enabled = false;
             agregar.Show();
         }
     }

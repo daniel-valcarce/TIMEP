@@ -64,9 +64,13 @@
             this.rtb_pp = new System.Windows.Forms.RadioButton();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
-            this.list_box_enfermedades = new System.Windows.Forms.CheckedListBox();
-            this.list_box_medicamentos = new System.Windows.Forms.CheckedListBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.lbl_medic = new System.Windows.Forms.Label();
+            this.lbl_enfer = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // txb_Pnombre
@@ -398,9 +402,9 @@
             // 
             // panel1
             // 
-            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+                        | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.Controls.Add(this.rtb_cc);
             this.panel1.Controls.Add(this.rtb_pp);
             this.panel1.Controls.Add(this.rtb_ti);
@@ -408,7 +412,7 @@
             this.panel1.Controls.Add(this.cbx_Ptip_identi);
             this.panel1.Location = new System.Drawing.Point(686, 72);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(212, 65);
+            this.panel1.Size = new System.Drawing.Size(334, 65);
             this.panel1.TabIndex = 38;
             // 
             // button1
@@ -424,29 +428,62 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // list_box_enfermedades
+            // listBox1
             // 
-            this.list_box_enfermedades.FormattingEnabled = true;
-            this.list_box_enfermedades.Location = new System.Drawing.Point(123, 409);
-            this.list_box_enfermedades.Name = "list_box_enfermedades";
-            this.list_box_enfermedades.Size = new System.Drawing.Size(389, 130);
-            this.list_box_enfermedades.TabIndex = 40;
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 20;
+            this.listBox1.Location = new System.Drawing.Point(123, 432);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(389, 124);
+            this.listBox1.TabIndex = 42;
             // 
-            // list_box_medicamentos
+            // listBox2
             // 
-            this.list_box_medicamentos.FormattingEnabled = true;
-            this.list_box_medicamentos.Location = new System.Drawing.Point(518, 409);
-            this.list_box_medicamentos.Name = "list_box_medicamentos";
-            this.list_box_medicamentos.Size = new System.Drawing.Size(380, 130);
-            this.list_box_medicamentos.TabIndex = 41;
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.ItemHeight = 20;
+            this.listBox2.Location = new System.Drawing.Point(528, 432);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(388, 124);
+            this.listBox2.TabIndex = 43;
+            // 
+            // lbl_medic
+            // 
+            this.lbl_medic.AutoSize = true;
+            this.lbl_medic.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_medic.Location = new System.Drawing.Point(272, 409);
+            this.lbl_medic.Name = "lbl_medic";
+            this.lbl_medic.Size = new System.Drawing.Size(125, 20);
+            this.lbl_medic.TabIndex = 44;
+            this.lbl_medic.Text = "Medicamentos";
+            // 
+            // lbl_enfer
+            // 
+            this.lbl_enfer.AutoSize = true;
+            this.lbl_enfer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_enfer.Location = new System.Drawing.Point(680, 409);
+            this.lbl_enfer.Name = "lbl_enfer";
+            this.lbl_enfer.Size = new System.Drawing.Size(126, 20);
+            this.lbl_enfer.TabIndex = 45;
+            this.lbl_enfer.Text = "Enfermedades";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(12, 601);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(788, 150);
+            this.dataGridView1.TabIndex = 46;
             // 
             // AgregarPaciente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(957, 734);
-            this.Controls.Add(this.list_box_medicamentos);
-            this.Controls.Add(this.list_box_enfermedades);
+            this.ClientSize = new System.Drawing.Size(1079, 734);
+            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.lbl_enfer);
+            this.Controls.Add(this.lbl_medic);
+            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btn_agegar_u);
@@ -482,8 +519,11 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AgregarPaciente";
             this.Text = "AgregarPaciente";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AgregarPaciente_FormClosing);
+            this.EnabledChanged += new System.EventHandler(this.AgregarPaciente_EnabledChanged);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -527,7 +567,10 @@
         private System.Windows.Forms.RadioButton rtb_pp;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.CheckedListBox list_box_enfermedades;
-        private System.Windows.Forms.CheckedListBox list_box_medicamentos;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.Label lbl_medic;
+        private System.Windows.Forms.Label lbl_enfer;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
